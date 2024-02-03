@@ -10,4 +10,8 @@ Com auxilio do **Figma**, nos apresentaram moldais para a criação, mas tambem 
 
 ## Imagens do meu decodificador:
 
-<img src='./pagina1.png' alt='pag1' width='500px' height='500px'>
+<img src='./pagina1.png' alt='pag1' width='650px' height='500px'>
+
+<hr>
+
+<img src='./pagina2.png' alt='pag2' width='650px' height='500px'>
