@@ -19,3 +19,6 @@ Com auxilio do **Figma**, nos apresentaram moldais para a criação, mas tambem 
 <hr>
 
 <img src='./pagina2.png' alt='pag2' width='320px' height='500px'>
+
+
+# Link para interagir e decodificar seus textos: <a href="https://anasouza.top/src_02/index.html">Clique aqui<a>
