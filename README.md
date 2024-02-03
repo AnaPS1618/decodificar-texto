@@ -6,7 +6,7 @@ Era necessário criptografar o texto informado, aprenseta-lo em uma janela ao la
 
 Utilizando a biblicote **CryptoJS**, pude impletar essa criptografia e descriptografia de forma fácil, prática e rápida, presando pelo código limpo e simples. 
 
-Com auxilio do **Figma**, nos apresentaram moldais para a criação, mas tambem nos dando total liberdade para a imaginação e de como mais gostariamos de implentar esse sistema. 
+Com auxilio do **Figma**, nos apresentaram moldais para a criação, mas tambem nos dando total liberdade para a imaginação e de como mais gostariamos de implentar esse sistema, não esquecendo da responsavidade para o ambiente mobile. 
 
 ## Imagens do meu decodificador:
 
@@ -14,4 +14,8 @@ Com auxilio do **Figma**, nos apresentaram moldais para a criação, mas tambem 
 
 <hr>
 
-<img src='./pagina2.png' alt='pag2' width='650px' height='500px'>
+<img src='./pagina2.png' alt='pag2' width='250px' height='500px'>
+
+<hr>
+
+<img src='./pagina3.png' alt='pag3' width='650px' height='500px'>
