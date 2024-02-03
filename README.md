@@ -14,8 +14,8 @@ Com auxilio do **Figma**, nos apresentaram moldais para a criação, mas tambem 
 
 <hr>
 
-<img src='./pagina2.png' alt='pag2' width='250px' height='500px'>
+<img src='./pagina3.png' alt='pag3' width='650px' height='500px'>
 
 <hr>
 
-<img src='./pagina3.png' alt='pag3' width='650px' height='500px'>
+<img src='./pagina2.png' alt='pag2' width='320px' height='500px'>
